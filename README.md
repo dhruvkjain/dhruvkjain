@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=1FFF0F&vCenter=true&random=false&width=480&lines=Hi%2C+I+am+Dhruv+Jain;I+am+only+a+human)](https://git.io/typing-svg)
+
+</div>
+
 <div id="header" >
 
   # 💫 About Me:
