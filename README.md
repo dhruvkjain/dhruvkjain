@@ -82,7 +82,7 @@
 
 - [![Gmail Badge](https://img.shields.io/badge/-dkjain2005co@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:dkjain2005co@gmail.com)](mailto:dkjain2005co@gmail.com)
 - [![Instagram Badge](https://img.shields.io/badge/dhruvkjain-red?style=social&logo=Instagram&link=https://instagram.com/dhruvkjain)](https://instagram.com/dhruvkjain)
-- [![Linkedln Badge](https://img.shields.io/badge/dhruvkjain-red?style=social&logo=linkedin&link=https://linkedin.com/in/dhruvkjain)](https://linkedin.com/in/dhruvkjain)
+- [![Linkedln Badge](https://img.shields.io/badge/dhruvkjain-red?style=social&logo=linkedin&link=https://www.linkedin.com/in/dhruv-jain-980a88294/)](https://www.linkedin.com/in/dhruv-jain-980a88294/)
 - [![X Badge](https://img.shields.io/badge/dhruvkjain-red?style=social&logo=X&link=https://x.com/dhruvkjain)](https://x.com/dhruvkjain)
 
 ---
