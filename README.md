@@ -17,63 +17,66 @@
   <tr>
     <td><strong>Languages</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-darkblue?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-darkblue?style=flat&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-darkblue?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-darkblue?style=flat&logo=cplusplus&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><strong>Frameworks</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Framework-React.js-darkgreen?style=flat&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/Framework-Node.js-darkgreen?style=flat&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Framework-Next.js-darkgreen?style=flat&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Framework-TailwindCSS-darkgreen?style=flat&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Framework-Bootstrap-darkgreen?style=flat&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/React.js-darkgreen?style=flat&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-darkgreen?style=flat&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-darkgreen?style=flat&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-darkgreen?style=flat&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-darkgreen?style=flat&logo=bootstrap&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><strong>Databases</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Database-MongoDB-darkgoldenrod?style=flat&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Database-PostgreSQL-darkgoldenrod?style=flat&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Database-Firebase-darkgoldenrod?style=flat&logo=firebase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Database-Redis-darkgoldenrod?style=flat&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-darkred?style=flat&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-darkred?style=flat&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-darkred?style=flat&logo=firebase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-darkred?style=flat&logo=redis&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><strong>Libraries</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Library-Three.js-orange?style=flat&logo=threedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Library-Express.js-orange?style=flat&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Library-Socket.io-orange?style=flat&logo=socket.io&logoColor=white" />
-      <img src="https://img.shields.io/badge/Library-Mongoose-orange?style=flat&logo=mongoose&logoColor=white" />
-      <img src="https://img.shields.io/badge/Library-ShadcnUI-orange?style=flat&logo=shadcnui&logoColor=white" />
-      <img src="https://img.shields.io/badge/Library-Zod-orange?style=flat&logo=zod&logoColor=white" />
-      <img src="https://img.shields.io/badge/Library-Husky-orange?style=flat&logo=husky&logoColor=white" />
-      <img src="https://img.shields.io/badge/Library-Knip-orange?style=flat&logo=knip&logoColor=white" />
-      <img src="https://img.shields.io/badge/Library-Jest-orange?style=flat&logo=jest&logoColor=white" />
-      <img src="https://img.shields.io/badge/Library-SuperTest-orange?style=flat&logo=supertest&logoColor=white" />
+      <img src="https://img.shields.io/badge/Three.js-darkorange?style=flat&logo=threedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-darkorange?style=flat&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Socket.io-darkorange?style=flat&logo=socket.io&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mongoose-darkorange?style=flat&logo=mongoose&logoColor=white" />
+      <img src="https://img.shields.io/badge/ShadcnUI-darkorange?style=flat&logo=shadcnui&logoColor=white" />
+      <img src="https://img.shields.io/badge/Zod-darkorange?style=flat&logo=zod&logoColor=white" />
+      <img src="https://img.shields.io/badge/Husky-darkorange?style=flat&logo=husky&logoColor=white" />
+      <img src="https://img.shields.io/badge/Knip-darkorange?style=flat&logo=knip&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jest-darkorange?style=flat&logo=jest&logoColor=white" />
+      <img src="https://img.shields.io/badge/SuperTest-darkorange?style=flat&logo=supertest&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Tool-Docker-purple?style=flat&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><strong>Platforms</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Platform-GitHub-black?style=flat&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Platform-Vercel-black?style=flat&logo=vercel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Platform-Postman-black?style=flat&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/Platform-Render-black?style=flat&logo=render&logoColor=white" />
-      <img src="https://img.shields.io/badge/Platform-Railway.app-black?style=flat&logo=railway&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-black?style=flat&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Render-black?style=flat&logo=render&logoColor=white" />
+      <img src="https://img.shields.io/badge/Railway.app-black?style=flat&logo=railway&logoColor=white" />
     </td>
   </tr>
 </table>
+
+
+
 
 
 
