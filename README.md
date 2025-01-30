@@ -31,6 +31,7 @@
       <img src="https://img.shields.io/badge/Next.js-darkgreen?style=flat&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/TailwindCSS-darkgreen?style=flat&logo=tailwindcss&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-darkgreen?style=flat&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Qt-darkgreen?style=flat&logo=qt&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -74,7 +75,6 @@
     </td>
   </tr>
 </table>
-
 
 
 
