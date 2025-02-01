@@ -5,8 +5,8 @@
 
 <div id="header" >
   <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="100" width="100"/>
- 🔭 I’m currently learning Three.js and Tensorflow.js.<br>
- 👯 I’m looking to collaborate on Javascript/Typescript related projects.<br>
+ 🔭 I’m currently learning Rust.<br>
+<!--  👯 I’m looking to collaborate on Javascript/Typescript related projects.<br> -->
  😄 Pronouns: he/him
 
 </div>
@@ -82,7 +82,7 @@
 
 - [![Gmail Badge](https://img.shields.io/badge/-dkjain2005co@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:dkjain2005co@gmail.com)](mailto:dkjain2005co@gmail.com)
 - [![Instagram Badge](https://img.shields.io/badge/dhruvkjain-red?style=social&logo=Instagram&link=https://instagram.com/dhruvkjain)](https://instagram.com/dhruvkjain)
-- [![Linkedln Badge](https://img.shields.io/badge/dhruvkjain-red?style=social&logo=linkedin&link=https://www.linkedin.com/in/dhruv-jain-980a88294/)](https://www.linkedin.com/in/dhruv-jain-980a88294/)
+- [![Linkedln Badge](https://img.shields.io/badge/dhruvkjain-red?style=social&logo=Linkedln&link=https://www.linkedin.com/in/dhruv-jain-980a88294/)](https://www.linkedin.com/in/dhruv-jain-980a88294/)
 - [![X Badge](https://img.shields.io/badge/dhruvkjain-red?style=social&logo=X&link=https://x.com/dhruvkjain)](https://x.com/dhruvkjain)
 
 ---
