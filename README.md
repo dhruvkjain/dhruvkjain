@@ -75,6 +75,12 @@
       <img src="https://img.shields.io/badge/Railway.app-black?style=flat&logo=railway&logoColor=white" />
     </td>
   </tr>
+   <tr>
+    <td><strong>Design</strong></td>
+    <td>
+     <img src="https://img.shields.io/badge/Figma-%235c0d91?style=flat&logo=figma&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
 
