@@ -81,6 +81,13 @@
      <img src="https://img.shields.io/badge/Figma-%235c0d91?style=flat&logo=figma&logoColor=white" />
     </td>
   </tr>
+<tr>
+  <td><strong>Operating Systems</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/Arch_Linux-2C2C2C?style=flat&logo=arch-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows-2C2C2C?style=flat&logo=windows&logoColor=white" />
+  </td>
+</tr>
 </table>
 
 
