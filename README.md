@@ -100,16 +100,16 @@
 - [![Linkedln Badge](https://img.shields.io/badge/dhruvkjain-red?style=social&logo=Linkedln&link=https://www.linkedin.com/in/dhruv-jain-980a88294/)](https://www.linkedin.com/in/dhruv-jain-980a88294/)
 - [![X Badge](https://img.shields.io/badge/dhruvkjain-red?style=social&logo=X&link=https://x.com/dhruvkjain)](https://x.com/dhruvkjain)
 
----
 
-<div align="center" id="stats"> 
-  <img src='https://github-readme-stats.vercel.app/api?username=dhruvkjain&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true' />  
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=dhruvkjain&theme=nightowl&hide_border=false' />
+<!--<div align="center" id="stats"> 
+<!--  <img src='https://github-readme-stats.vercel.app/api?username=dhruvkjain&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true' /> -->  
+<!--  <img src='https://github-readme-streak-stats.herokuapp.com/?user=dhruvkjain&theme=nightowl&hide_border=false' /> -->
 <!--   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkjain&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact' /> -->
   
-[![](https://visitcount.itsvg.in/api?id=dhruvkjain&icon=0&color=12)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=dhruvkjain&icon=0&color=12)](https://visitcount.itsvg.in) -->
 
-</div>
+<!-- </div> -->
+
 
 
 
