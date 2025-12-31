@@ -1,10 +1,10 @@
-<div align="center">
+<!-- <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=1FFF0F&vCenter=true&random=false&width=480&lines=Hi%2C+I+am+Dhruv+Jain;I+am+only+a+human)](https://git.io/typing-svg)
-</div>
+</div> -->
 
 <div id="header" >
-  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="100" width="100"/>
+  <!-- <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="100" width="100"/> -->
  🔭 My portfolio website: <a href="https://dhruvkjain.vercel.app/">dhruvkjain's portfolio</a><br>
  🔭 You can find what I'm currently learning at: <a href="https://dhruvkjain.github.io/pkms/what_im_learning">pkms/what_im_learning</a><br>
 <!--  👯 I’m looking to collaborate on Javascript/Typescript related projects.<br> -->
