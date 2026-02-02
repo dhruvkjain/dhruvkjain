@@ -1,0 +1,45 @@
+name: Update Portfolio Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # Important: Fetch all history for accurate line counts
+
+      - name: Calculate Stats
+        id: stats
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MY_GIT_NAME: "dhruvkjain"
+          MY_GH_USER: "dhruvkjain"
+        run: |
+          # 1. Count Merged PRs
+          PR_COUNT=$(gh search prs --repo "${{ github.repository }}" --author "$MY_GH_USER" --state merged --json url --jq length)
+          
+          # 2. Count Lines Added
+          LOC_COUNT=$(git log --author="$MY_GIT_NAME" --pretty=tformat: --numstat | awk '{ add += $1 } END { printf "%s", add }')
+          
+          # 3. Save to output
+          echo "PR_COUNT=$PR_COUNT" >> $GITHUB_ENV
+          echo "LOC_COUNT=$LOC_COUNT" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          # Use sed to replace the content between the markers
+          sed -i "s/.*/$PR_COUNT/" README.md
+          sed -i "s/.*/$LOC_COUNT/" README.md
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update contribution stats" || exit 0
+          git push
