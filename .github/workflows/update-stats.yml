@@ -45,11 +45,10 @@ jobs:
 
       - name: Update README
         run: |
-          # Replace the number following the specific text
-          sed -i "s/\(Total PRs in kornia-rs: \)[0-9]*/\1$PR_COUNT/" README.md
+          # The regex now looks for "**Total...** " (including the bold stars)
+          sed -i "s/\(\*\*Total PRs in kornia-rs:\*\* \)[0-9]*/\1$PR_COUNT/" README.md
           
-          # Same for Lines of Code
-          sed -i "s/\(Lines of Code in kornia-rs: \)[0-9]*/\1$LOC_COUNT/" README.md
+          sed -i "s/\(\*\*Lines of Code in kornia-rs:\*\* \)[0-9]*/\1$LOC_COUNT/" README.md
 
       - name: Commit and Push
         run: |
