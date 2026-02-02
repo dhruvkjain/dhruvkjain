@@ -120,6 +120,11 @@
 
 <!-- </div> -->
 
+<br/>
+
+### I'm an active contributor to [kornia-rs](https://github.com/kornia/kornia-rs):
+- **Total PRs:** 0
+- **Lines of Code:** 0
 
 
 
