@@ -8,8 +8,15 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # explicit permission to push changes
     steps:
-      - name: Checkout Code
+      # 1. Checkout YOUR Portfolio Repo (The missing step!)
+      - name: Checkout Portfolio
+        uses: actions/checkout@v3
+
+      # 2. Checkout the TARGET Repo (Kornia) to a temporary folder
+      - name: Checkout Kornia Repo
         uses: actions/checkout@v3
         with:
           repository: kornia/kornia-rs
@@ -24,7 +31,7 @@ jobs:
           MY_GH_USER: "dhruvkjain"
           TARGET_REPO: "kornia/kornia-rs"
         run: |
-          # 1. Count Merged PRs (Targeting specific repo)
+          # 1. Count Merged PRs
           PR_COUNT=$(gh search prs --repo "$TARGET_REPO" --author "$MY_GH_USER" --json url --jq length --limit 1000 "is:merged")
           
           # 2. Count Lines Added (Go into the temp folder first!)
@@ -38,7 +45,8 @@ jobs:
 
       - name: Update README
         run: |
-          # This updates the README in the root of your Portfolio repo
+          # Updates the number BETWEEN the comments. 
+          # DO NOT use "s/.*/..." or it will delete your whole file.
           sed -i "s/.*/$PR_COUNT/" README.md
           sed -i "s/.*/$LOC_COUNT/" README.md
 
