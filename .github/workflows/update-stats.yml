@@ -25,7 +25,7 @@ jobs:
           TARGET_REPO: "kornia/kornia-rs"
         run: |
           # 1. Count Merged PRs (Targeting specific repo)
-          PR_COUNT=$(gh search prs --repo "$TARGET_REPO" --author "$MY_GH_USER" --state merged --json url --jq length)
+          PR_COUNT=$(gh search prs --repo "$TARGET_REPO" --author "$MY_GH_USER" --json url --jq length --limit 1000 "is:merged")
           
           # 2. Count Lines Added (Go into the temp folder first!)
           cd temp-kornia
