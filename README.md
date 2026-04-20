@@ -123,6 +123,6 @@
 <br/>
 
 ### I'm an active contributor to [kornia-rs](https://github.com/kornia/kornia-rs):
-- **Total PRs in kornia-rs:** 6
-- **Lines of Code in kornia-rs:** 3395
+- **Total PRs in kornia-rs:** 7
+- **Lines of Code in kornia-rs:** 4208
 
