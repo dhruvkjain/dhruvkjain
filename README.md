@@ -120,9 +120,9 @@
 
 <!-- </div> -->
 
-<br/>
+<!-- <br/>
 
 ### I'm an active contributor to [kornia-rs](https://github.com/kornia/kornia-rs):
 - **Total PRs in kornia-rs:** 7
-- **Lines of Code in kornia-rs:** 4208
+- **Lines of Code in kornia-rs:** 4208 -->
 
